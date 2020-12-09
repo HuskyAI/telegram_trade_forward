@@ -75,10 +75,10 @@ offset = 0
 
 ## Execution
 
-After setting up the `config.ini`, run the `forwarder.py` script.
+After setting up the `config.ini`, run the `etoro_trader.py` script.
 
 ```shell
-python3 forwarder.py
+python3 etoro_trader.py
 ```
 
 You have to login for the first time using your phone number (inter-national format) and login code.
